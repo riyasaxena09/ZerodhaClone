@@ -11,14 +11,13 @@ function HomePage() {
     return ( 
         <>
         {/* <i className="fa fa-camera"></i> */}
-        <Navbar />
         <Hero />
         <Awards />
         <Stats />
         <Pricing />
         <Education />
         <OpenAcount />
-        <Footer />
+
         </>
      );
 }
